@@ -1,6 +1,6 @@
 Govstaffquestionnaire
 Paper questionnaire for UK school governors to use with school staff.
-This questionnaire has been built in LaTeX. For more on how to install and use LaTeX visit http://www.latex-project.org/ Unlike a questionnaire produced in word processing software the programming controls the whole layout of the questionnaire. 
+This questionnaire has been built in LaTeX. For more on how to install and use LaTeX visit http://www.latex-project.org/ Unlike a questionnaire produced in word processing software the programming controls the whole layout of the questionnaire.A sample of the .pdf output is available at http://johncanning.net/wp/wp-content/uploads/2015/12/general-governor-questionnaire.pdf 
 
 
 Notes on use. 
